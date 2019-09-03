@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-0"?>
+<?xml-stylesheet type="text/css" href="student.css" ?>
+<students>
+<student>
+<usn>USN: 4vv17cs401</usn>
+<name>Name: Akbar baig</name>
+<college>College: Vidyavardhaka college of engineering</college>
+<branch>Branch: CSE</branch>
+<year>Year: 2019-20</year>
+<e-mail>E-mail:akbarbaig.slg@gmail.com</e-mail>
+</student>
+<student>
+<usn>USN: 4vv17cs402</usn>
+<name>Name: desha</name>
+<college>College: Vidyavardhaka college of engineering</college>
+<branch>Branch: CSE</branch>
+<year>Year: 2019-20</year>
+<e-mail>E-mail:desha@gmail.com</e-mail>
+</student>
+<student>
+<usn>USN: 4vv17cs403</usn>
+<name>Name: Prateek</name>
+<college>College: Vidyavardhaka college of engineering</college>
+<branch>Branch: CSE</branch>
+<year>Year: 2019-20</year>
+<e-mail>E-mail:prateek@gmail.com</e-mail>
+</student>
+<student>
+<usn>USN: 4vv17cs404</usn>
+<name>Name: Sahil</name>
+<college>College: Vidyavardhaka college of engineering</college>
+<branch>Branch: CSE</branch>
+<year>Year: 2019-20</year>
+<e-mail>E-mail:sahil@gmail.com</e-mail>
+</student>
+<student>
+<usn>USN: 4vv17cs405</usn>
+<name>Name: Reshma</name>
+<college>College: Vidyavardhaka college of engineering</college>
+<branch>Branch: CSE</branch>
+<year>Year: 2019-20</year>
+<e-mail>E-mail:4reshma@gmail.com</e-mail>
+</student>
+</students>

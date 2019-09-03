@@ -1,0 +1,32 @@
+student
+{
+display:block; margin-top:5px; color:yellow;	
+}
+usn
+{
+	display:block; margin-top:10px; color:red;  font-family: "Times New Roman", Times, serif;
+}
+name
+{
+	display:block; margin-top:10px; color:red;  font-family: "Times New Roman", Times, serif;
+}
+college
+{
+	display:block; margin-top:10px; color:red;  font-family: "Times New Roman", Times, serif;
+}	
+branch 
+{
+	display:block; margin-top:10px; color:red;  font-family: "Times New Roman", Times, serif;
+}
+year 
+{
+	display:block; margin-top:10px; color:red;  font-family: "Times New Roman", Times, serif;
+}
+e-mail
+{
+	display:block; margin-top:10px; color:red;  font-family: "Times New Roman", Times, serif;
+}
+students
+{
+	display:block; margin-left:100px; color:green;
+}
